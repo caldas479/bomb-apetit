@@ -1,4 +1,4 @@
-# T18 BombAppetit Read Me
+# T18 BombApetit Read Me
 
 <!-- this is an instruction line; after you follow the instruction, delete the corresponding line. Do the same for all instruction lines! -->
 
