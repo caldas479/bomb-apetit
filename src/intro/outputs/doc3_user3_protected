@@ -1,0 +1,37 @@
+{
+    "restaurantInfo": {
+        "owner": "Kevin Turner",
+        "restaurant": "KFC",
+        "address": "123 Pine Street, Suburbia",
+        "genre": [
+            "American",
+            "Fast Food",
+            "Chicken"
+        ],
+        "menu": [
+            {
+                "itemName": "Original Recipe Chicken",
+                "category": "Chicken",
+                "description": "Crispy and juicy fried chicken with the secret blend of 11 herbs and spices.",
+                "price": 8.99,
+                "currency": "USD"
+            },
+            {
+                "itemName": "Twister Wrap",
+                "category": "Wrap",
+                "description": "Grilled chicken strips, lettuce, and mayo wrapped in a soft tortilla.",
+                "price": 6.99,
+                "currency": "USD"
+            },
+            {
+                "itemName": "Famous Bowl",
+                "category": "Bowl",
+                "description": "Mashed potatoes, sweet corn, crispy chicken, and gravy in one bowl.",
+                "price": 7.49,
+                "currency": "USD"
+            }
+        ],
+        "mealVoucher": "1a74aba1ae5cbbf2af49b41a7759ee435a1b73bb855f2d725b6e22909fb23b58cbaef14665a41ec695ea937c1148515be70ca30d5ad3f8d02edf91461ce3cb4b98467b89d834bb7def00d38c8c312a9309704e48ea508d70241c8e37fb8c4b1df1a3d7127711b8440b3e29de91e7f6d352ede1d630eabd499a7cba4efa4f25ee7ed5430117ce8e4dc8b58f99bf7330649832bda0a54fcd29571c75fe7789d89fb6349d32e84b9606efbf0ab7834b22f338a884bb78d6abe96692acc9c241d5d98db8b5fa690944f779814a96571d2f47cffdcf98c1c33a4299cdc90a4eb7ada36e74d44dbb1b63eac042870d8068ae5d3f08026dc94c04232b1e4013119f8e67"
+    },
+    "signature": "Tel60xMoKxiSMb/yiRPhSRcAFySj6Opk7WtAd7nRhvwMwox2q6+DD2Z1g8B5Z33twvg60u+9FOIGgpdKW06wDD90VujceZn+cSXIwgcCF8llwisNONVYu+yd2kj84IY520GHOuTUREgOoHAU3atd2GPqlsqIwIcvM51XgnXqu4Ds8d4Pw3oJIU1TQYum0ouIbHLK9CmuxgBHKqyaiKfHicQ//tNIfTcSnNMqKOsd1qOxWjs2nNrmPHaiwdlYxBKcTiSJheGoN24jYbUmCaxEi+tpn9C6HZBOC0p2GR0ESq87eDXiUvcuIMIn82pSf7p4ppvsgxHEHcCkRalZ62Fwnw=="
+}

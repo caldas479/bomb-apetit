@@ -1,0 +1,39 @@
+{
+    "restaurantInfo": {
+      "owner": "Jane Doe",
+      "restaurant": "Burger King",
+      "address": "456 Oak Street, Downtown",
+      "genre": [
+        "American",
+        "Fast Food"
+      ],
+      "menu": [
+        {
+          "itemName": "Whopper",
+          "category": "Burger",
+          "description": "Flame-grilled beef patty topped with lettuce, tomato, onion, and mayo.",
+          "price": 5.99,
+          "currency": "USD"
+        },
+        {
+          "itemName": "Chicken Fries",
+          "category": "Chicken",
+          "description": "Crispy chicken strips seasoned to perfection.",
+          "price": 3.99,
+          "currency": "USD"
+        },
+        {
+          "itemName": "Vegetarian Wrap",
+          "category": "Vegetarian",
+          "description": "Grilled veggies wrapped in a soft tortilla with special sauce.",
+          "price": 4.99,
+          "currency": "USD"
+        }
+      ],
+      "mealVoucher": {
+        "code": "BK10",
+        "description": "Use this code for a 10% discount on the meal. Excludes promotional items."
+      }
+    }
+}
+  

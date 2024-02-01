@@ -1,0 +1,36 @@
+{
+    "restaurantInfo": {
+        "owner": "John Smith",
+        "restaurant": "McDonald's",
+        "address": "789 Maple Avenue, City Center",
+        "genre": [
+            "American",
+            "Fast Food"
+        ],
+        "menu": [
+            {
+                "itemName": "Big Mac",
+                "category": "Burger",
+                "description": "Two all-beef patties, special sauce, lettuce, cheese, pickles, onions on a sesame seed bun.",
+                "price": 4.99,
+                "currency": "USD"
+            },
+            {
+                "itemName": "McNuggets",
+                "category": "Chicken",
+                "description": "Bite-sized pieces of tender chicken with a crispy coating.",
+                "price": 6.49,
+                "currency": "USD"
+            },
+            {
+                "itemName": "McSalad Deluxe",
+                "category": "Salad",
+                "description": "Fresh salad greens with grilled chicken, cherry tomatoes, and Caesar dressing.",
+                "price": 5.99,
+                "currency": "USD"
+            }
+        ],
+        "mealVoucher": "4569756b74b9865ecdc2a6d0ea1c37ca66b6603e957cfd6d7935f012a80ba92532cb19e4231918e3917c1725ce9843379c15f3d1e2aceb1feed1404152b73005c3676526f70efd405b740d3832a6546a884d4a074ab8d0a9fed372b2196cc30ab101fe70e17d28a5a8a94caa001542ad61f65b9df67500d4f14c0b7778deeadca92c59099c0ab0831ca9ca96df63e379655b10f1e300018a9aee3f3b4951fb0252d7316c88a27c1f780501c347d3604eb93759158b0f9b3894aa8de84bbd993eaddbc7c1c2ac62986786b07d8deb1b32da2aef694626d2b70b89d58223107446f676851b464a9509873a2f05bfe2c993c45d89ab698f547601b216f04a166f05"
+    },
+    "signature": "oJz8qnufN3k/vQJhzWdAl5huSzNZuL7FF1QOQJQU5ES/tLEuBCY49KOUfZDfrmuEVwkJE1dmqhdbcIsDWN7ddqLi9qqw5U5xuYr2pxrXBZuJwpib420KkPM/RN2Jw3NPhQQXqo+Lpb1SWjNEYv3Ufkl0c4Iouq4eE6YPts7kGkZYEMJEHxhWXsnvYQlJjIuc/4APdzmHNg1hWr732j7KzSSJvDTIcsjsRAOBpuJp+p1eiw2B4f2hfNRTAERK6cdNboNFjLVyBhtnXk14kL0h6wB/vgfem/ClimiwqZnxxpYWkzpfYXjRtYKnVkY9zzUgo1OjaMvA0icvHskFgF+ycA=="
+}

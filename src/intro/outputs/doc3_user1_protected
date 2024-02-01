@@ -1,0 +1,37 @@
+{
+    "restaurantInfo": {
+        "owner": "Kevin Turner",
+        "restaurant": "KFC",
+        "address": "123 Pine Street, Suburbia",
+        "genre": [
+            "American",
+            "Fast Food",
+            "Chicken"
+        ],
+        "menu": [
+            {
+                "itemName": "Original Recipe Chicken",
+                "category": "Chicken",
+                "description": "Crispy and juicy fried chicken with the secret blend of 11 herbs and spices.",
+                "price": 8.99,
+                "currency": "USD"
+            },
+            {
+                "itemName": "Twister Wrap",
+                "category": "Wrap",
+                "description": "Grilled chicken strips, lettuce, and mayo wrapped in a soft tortilla.",
+                "price": 6.99,
+                "currency": "USD"
+            },
+            {
+                "itemName": "Famous Bowl",
+                "category": "Bowl",
+                "description": "Mashed potatoes, sweet corn, crispy chicken, and gravy in one bowl.",
+                "price": 7.49,
+                "currency": "USD"
+            }
+        ],
+        "mealVoucher": "5d2c1748955a260fa96043fa00564552d6cd91d8ff7ac59c3bd8ed3abf8207fac11640f9d04601d779d2dc992a0a027de277f0e6144b3df1150c68d5c632c5f28ec441957d74256a9d336cf56c8b5a15dff8837bdc8f8d2fb317489bbf470026db681e6729dc7f9e08bd80dfad1b69989cb5bcd4b3194dbd38ee404346495a564f6ab0b502d0be2c98a7f1be27eb8e65be96ce120a2f383c2b40892fd9248f84a3046367cea8c3308cbba4c52b4ba1d34c5d279af5d4e4a7ab129e30c3f84500db5346f7ff4371fd67391d81bf9dab023633f47ee6756f026693d3c87f2200c776e9a6dede6589971356d78c8c2915fe732f9dfa8f828d3939279bd668ef8594"
+    },
+    "signature": "dVIemKL7G941T4zn0baiuxU0VP/74mNEGp3B6Q2UROCNRpX6Ts0wxP6bJzddjFI1NODmlgYid2SlyXLm/PHdvLqwB9f9q5BiezldWySChRkK3LUlsHBry2tAVLzLd4rwYTujsQUpjePwrm21hE2W8GxRG1n0ouZzyhYX6X6N5M8RJmdZTZf85OfSpjaR2PiNXFoECNcntOfBLcI0fv3Meis/v52nTQGkOePd4IMW/HaxTXaXgtMhPmzI8A6KAeWzWAHlWLDBSqW9W1m6RycfdP/w1p4zt3QKon651z6riNnOXJrpdW0dp8rbantUZKIumAXURm07SnEkqrYjdXFh1w=="
+}

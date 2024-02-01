@@ -1,0 +1,37 @@
+{
+    "restaurantInfo": {
+        "owner": "Kevin Turner",
+        "restaurant": "KFC",
+        "address": "123 Pine Street, Suburbia",
+        "genre": [
+            "American",
+            "Fast Food",
+            "Chicken"
+        ],
+        "menu": [
+            {
+                "itemName": "Original Recipe Chicken",
+                "category": "Chicken",
+                "description": "Crispy and juicy fried chicken with the secret blend of 11 herbs and spices.",
+                "price": 8.99,
+                "currency": "USD"
+            },
+            {
+                "itemName": "Twister Wrap",
+                "category": "Wrap",
+                "description": "Grilled chicken strips, lettuce, and mayo wrapped in a soft tortilla.",
+                "price": 6.99,
+                "currency": "USD"
+            },
+            {
+                "itemName": "Famous Bowl",
+                "category": "Bowl",
+                "description": "Mashed potatoes, sweet corn, crispy chicken, and gravy in one bowl.",
+                "price": 7.49,
+                "currency": "USD"
+            }
+        ],
+        "mealVoucher": "233fda6c044c089d49497be831dd7ba9cf6677f6f47236d2bec349f8d2feda173fbbc376abe786dc9e434d1b2e02942f83e267649257c6eae6d5af19d703965b0ce2045d882f98e25a11b1f093f68d2bde45834096b4144ef2450a9ac93474663574d9a6ff94a803d34840e47b32a4150a0a25c668de76ff73413d18802bc61e00ab575c43241beb747240251e183cd13e3b9fd7d5ae83a9ab2738ff82cd07a0c91f84b8d42c0491bb3d5aff60b729d38d86a699eaec2c680be5efa1ff61eaa6ed789aade77c1627a9c794c4620ba890784e707f8abe50e6073285bf8d4c5615b45f37c49ec73ff82a2e13849da53a9fff2c0b6900e78eb544341f0adaf36b79"
+    },
+    "signature": "Z9RN8WcFXZkmB7FGJWvv9FIuTSbFYZzdpASiQH1OFDvyO4huba8jlhjOOcrmSVvAjAemTetJeyrE+VkaIvq40/397ufpKj+BFySNMJn4A/X6La4NT6iYbu42u7wsB3d8nP4/xwmRsreUWWFQL8hUmF71Lkr0FFGjxZGAiRb2XKnz56Cb6vOYUkBFhOgLbT48eM0rmlY5YKi765wmjVxbXKpRsXzGroakqVbLB/WWNL51+wvQ2xHP5Pz1UPXXHH6/rdl3oG1jn6SwJCjUskfNiTjvJBxKvm1lfl3M9Q2KGcCA4YdybsH9l9HRqwqfmjoZNvTDlVpYPHvjmQtSIlMGeQ=="
+}

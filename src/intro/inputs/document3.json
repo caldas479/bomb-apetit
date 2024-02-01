@@ -1,0 +1,40 @@
+{
+    "restaurantInfo": {
+      "owner": "Kevin Turner",
+      "restaurant": "KFC",
+      "address": "123 Pine Street, Suburbia",
+      "genre": [
+        "American",
+        "Fast Food",
+        "Chicken"
+      ],
+      "menu": [
+        {
+          "itemName": "Original Recipe Chicken",
+          "category": "Chicken",
+          "description": "Crispy and juicy fried chicken with the secret blend of 11 herbs and spices.",
+          "price": 8.99,
+          "currency": "USD"
+        },
+        {
+          "itemName": "Twister Wrap",
+          "category": "Wrap",
+          "description": "Grilled chicken strips, lettuce, and mayo wrapped in a soft tortilla.",
+          "price": 6.99,
+          "currency": "USD"
+        },
+        {
+          "itemName": "Famous Bowl",
+          "category": "Bowl",
+          "description": "Mashed potatoes, sweet corn, crispy chicken, and gravy in one bowl.",
+          "price": 7.49,
+          "currency": "USD"
+        }
+      ],
+      "mealVoucher": {
+        "code": "KFCSAVE10",
+        "description": "Use this code for a 10% discount on your order. Limited time offer."
+      }
+    }
+  }
+  

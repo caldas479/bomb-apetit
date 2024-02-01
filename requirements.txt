@@ -1,0 +1,6 @@
+Flask==3.0.0
+Flask_Sqlalchemy
+Flask_Migrate
+prompt_toolkit==1.0.14
+PyInquirer
+flask_cors

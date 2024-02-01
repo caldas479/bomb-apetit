@@ -1,0 +1,36 @@
+{
+    "restaurantInfo": {
+        "owner": "John Smith",
+        "restaurant": "McDonald's",
+        "address": "789 Maple Avenue, City Center",
+        "genre": [
+            "American",
+            "Fast Food"
+        ],
+        "menu": [
+            {
+                "itemName": "Big Mac",
+                "category": "Burger",
+                "description": "Two all-beef patties, special sauce, lettuce, cheese, pickles, onions on a sesame seed bun.",
+                "price": 4.99,
+                "currency": "USD"
+            },
+            {
+                "itemName": "McNuggets",
+                "category": "Chicken",
+                "description": "Bite-sized pieces of tender chicken with a crispy coating.",
+                "price": 6.49,
+                "currency": "USD"
+            },
+            {
+                "itemName": "McSalad Deluxe",
+                "category": "Salad",
+                "description": "Fresh salad greens with grilled chicken, cherry tomatoes, and Caesar dressing.",
+                "price": 5.99,
+                "currency": "USD"
+            }
+        ],
+        "mealVoucher": "54a07f27281e58ecc5c39567a11334cd576293c9f6821626a460acdf395c184cd1023b84539b3f4b73c27ae8bbdafb62bda7b7763acebd400d4ad777749c8b5b0ccf8252691f5f0d54a456b83b60518d6f195643929cb7c8b898eeea11f5d4e814a2f361d1fbfede8d8e6d71874d04c3a0e491530b41512e9a5af4b840dbbbf85365ed5a1e3ec90f11debe17f99c5c89d2a961772862219a51099e901b3c9bf4bd4184d9c022e5476ff9ef2559c910ecaa9e112cec98da4b76916dc49f7bba9393e3a84d8ab44c3b8095a555481063672278a47b50e492ef5a8f996bdaa14f71106b3fe67d16fdd6ffa3e6bbcba2de64cdb93e950617c85f7d892507818affcf"
+    },
+    "signature": "gMHlmq629q6AuAHBR2RlsA2Ovy4Iz4NeG1Z0D7ZumhJDu5zHEyTciqzN62VN9xCEOe9C3xGvERTsdCgO1C4G9S5xwK/GbnrbxhSNTsQ4FoXH/QJlK1b0CdHvq1uez0FsaD4kDJuDyUOo5J/oJs7fFs442Ts9pu8AJ6TXG4WzreZl6UB9h8kLSngdxOXuCPyweUarvoG4DYv2UhiyUTBiUtlNfop2Vaxw+VCHK2yLPt8JoBBrkBo3/45QvyxsOwDBxlvr2dj50PTRsGwWIsAX3vD5mu/d7RBhEIqkeLpNbzvIDK0dB+1mWeHtWhoVKBth1WFZdNEXDKYWUsZzad/ciQ=="
+}

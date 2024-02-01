@@ -1,0 +1,38 @@
+{
+  "restaurantInfo": {
+    "owner": "John Smith",
+    "restaurant": "McDonald's",
+    "address": "789 Maple Avenue, City Center",
+    "genre": [
+      "American",
+      "Fast Food"
+    ],
+    "menu": [
+      {
+        "itemName": "Big Mac",
+        "category": "Burger",
+        "description": "Two all-beef patties, special sauce, lettuce, cheese, pickles, onions on a sesame seed bun.",
+        "price": 4.99,
+        "currency": "USD"
+      },
+      {
+        "itemName": "McNuggets",
+        "category": "Chicken",
+        "description": "Bite-sized pieces of tender chicken with a crispy coating.",
+        "price": 6.49,
+        "currency": "USD"
+      },
+      {
+        "itemName": "McSalad Deluxe",
+        "category": "Salad",
+        "description": "Fresh salad greens with grilled chicken, cherry tomatoes, and Caesar dressing.",
+        "price": 5.99,
+        "currency": "USD"
+      }
+    ],
+    "mealVoucher": {
+      "code": "MCD5OFF",
+      "description": "Use this code for a $5 discount on your meal. Applicable on orders over $15."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+    "restaurantInfo": {
+        "owner": "John Smith",
+        "restaurant": "McDonald's",
+        "address": "789 Maple Avenue, City Center",
+        "genre": [
+            "American",
+            "Fast Food"
+        ],
+        "menu": [
+            {
+                "itemName": "Big Mac",
+                "category": "Burger",
+                "description": "Two all-beef patties, special sauce, lettuce, cheese, pickles, onions on a sesame seed bun.",
+                "price": 4.99,
+                "currency": "USD"
+            },
+            {
+                "itemName": "McNuggets",
+                "category": "Chicken",
+                "description": "Bite-sized pieces of tender chicken with a crispy coating.",
+                "price": 6.49,
+                "currency": "USD"
+            },
+            {
+                "itemName": "McSalad Deluxe",
+                "category": "Salad",
+                "description": "Fresh salad greens with grilled chicken, cherry tomatoes, and Caesar dressing.",
+                "price": 5.99,
+                "currency": "USD"
+            }
+        ],
+        "mealVoucher": "69940cb76272a53bd0dd58d1ee2f26bb440068f01cfe576af5bce66988a5d4296ff5fb17d4c7a687bed412744fe220625aa31a3c0bf200b44ba7c72a0b222af611d45fab1e61def6702907167d10808cac4bb17de956c2bee45ca3197eccc26b4fe8dea62e4de3f38ae0d961a1c5bb95c59f8c4bd7c638c26a0a8ed989438a1ebf128718600e61c67e87bca6f2ab12ea9760f4118947612391616c6eee6f315a9aca0a0b02b17e5a36fd132cb600830729c774aa9810cbac538f63b5fe9a747bd790e27fd3c0ae2633b0261354b3181d5ec3b5b18f6a0b90566c406028da3ca5e7dec6b932c6eefb66a99a19b41a74ca4cd47729d3d2bad314923b623f529733"
+    },
+    "signature": "M4lxLeWD/5e9W76JVnIIBcPv6akLoaVncKa44+ViUpmvXnuiyH+WtZ/s1aptrIdJ2EwsWTxV6dGYe9mFWXL4s4cFOmynvQy+1TVd146BoruzftT7sKwz+e8Db1FavH+/vRCrrjfrDRkGEUBmmW3gMoa/67dpGTWOREamE685Oz47ioqh/HrvvGHqQj4H0gjg5CGCw5hoQG1U9WVtFUx3982Av0aE5hy3OQZ8IzCi34/gx8I9W0oCiXbaU9FuIh17YVAFpvHYdm8PDVBJCGHC69ClaO76YAwhxMtdsRaKRaUQPcaWQOTPU4vRZRRwwC/lEI/mNOrcvv2Lpx134S+fWw=="
+}

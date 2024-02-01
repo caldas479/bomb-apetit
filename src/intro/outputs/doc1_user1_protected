@@ -1,0 +1,36 @@
+{
+    "restaurantInfo": {
+        "owner": "Jane Doe",
+        "restaurant": "Burger King",
+        "address": "456 Oak Street, Downtown",
+        "genre": [
+            "American",
+            "Fast Food"
+        ],
+        "menu": [
+            {
+                "itemName": "Whopper",
+                "category": "Burger",
+                "description": "Flame-grilled beef patty topped with lettuce, tomato, onion, and mayo.",
+                "price": 5.99,
+                "currency": "USD"
+            },
+            {
+                "itemName": "Chicken Fries",
+                "category": "Chicken",
+                "description": "Crispy chicken strips seasoned to perfection.",
+                "price": 3.99,
+                "currency": "USD"
+            },
+            {
+                "itemName": "Vegetarian Wrap",
+                "category": "Vegetarian",
+                "description": "Grilled veggies wrapped in a soft tortilla with special sauce.",
+                "price": 4.99,
+                "currency": "USD"
+            }
+        ],
+        "mealVoucher": "9ae5445606b9ff3a7d59ba1de0f3c6158a35540d2cbe2eebadfe7f4d30db88e5d935b01d0e531b7e0a2988ee6ada2ebef080ce4f5a0ca2834fc9e65094e5cd529cfa73ff5ad607b47da4c6ac4aea74be55248c0c1aac99326f31d08048b3a7252480420f3ea682ab1f6d13a30f03b6e1ce9feb5564dd9359d75ad40ff91c49f345dd8daf8afeea69f799df1832cd82601222205e99a0b0a277db263eb3c94b657d62186ec827c47aac7fd6009c06072bb6b094930fd91d57fc3199df16e9ab025d3591b670967d3a320f45f6b02435060ed05fcf9b71a5fb0f72d1b41d0b55e38760e8a23f290fa8e5a8bb79af405ab43165f53f0f442139e165bf88dd0d2871"
+    },
+    "signature": "jOIRj7OEML3utF6Ycuxy0QiKVN+Mb2md5hcju7zQONHXQKm+bH308xEkIzSxzrM7C84Va7m7ImLy305gicRwQc+ioLShwCriSvNEs30AdTtVXNk+bh3nYfUNArYyDRP7hLAb+Eq1AD4FWlwthnmwNRGTmI1+MBLtaxm5fmC3gfgR6PMwsT9qv+OdxuPPPGyYk1DAqTejMzfMhesF4aN7cHn8zOBKp/O1HTFaOTwm3kiijTCl9B5HOdJ09Eqp18dmzdK+XztqL0VtlyvygcSJbCLa7lurPr8pxpbYeY6w3GSHtqnz+BJbTz7zyKFmVp0NUjbbscxqXIYqEZq9KGyFfw=="
+}
